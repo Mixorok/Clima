@@ -1,5 +1,6 @@
 #  Clima
 
+![project](project.gif)
 
 ## What I created
 
